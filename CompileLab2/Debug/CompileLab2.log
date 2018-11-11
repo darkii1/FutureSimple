@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\1\documents\visual studio 2015\projects\compilelab2\compilelab2\main.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\documents\visual studio 2015\projects\compilelab2\compilelab2\main.cpp(82): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\documents\visual studio 2015\projects\compilelab2\compilelab2\main.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\documents\visual studio 2015\projects\compilelab2\compilelab2\main.cpp(165): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\documents\visual studio 2015\projects\compilelab2\compilelab2\main.cpp(243): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\documents\visual studio 2015\projects\compilelab2\compilelab2\main.cpp(263): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\documents\visual studio 2015\projects\compilelab2\compilelab2\main.cpp(332): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\documents\visual studio 2015\projects\compilelab2\compilelab2\main.cpp(203): warning C4715: correctStructure: значение возвращается не при всех путях выполнения
+  CompileLab2.vcxproj -> C:\Users\1\documents\visual studio 2015\Projects\CompileLab2\Debug\CompileLab2.exe
+  CompileLab2.vcxproj -> C:\Users\1\documents\visual studio 2015\Projects\CompileLab2\Debug\CompileLab2.pdb (Partial PDB)

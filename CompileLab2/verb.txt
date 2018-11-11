@@ -1,0 +1,7 @@
+agree
+run
+buy
+climb
+eat
+fall
+die

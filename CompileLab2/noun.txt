@@ -1,0 +1,7 @@
+cat
+mother
+fox
+rabbit
+dog
+fish
+table
